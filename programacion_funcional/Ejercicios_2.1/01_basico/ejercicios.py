@@ -1,6 +1,6 @@
 ##
 #06 - Ejercios
-#Python es de tipado dinamico y fuerte
+#
 ##
 
 
@@ -11,7 +11,7 @@ print("\nEjercicio 1: Imprimir mensajes")
 print("Escribe un programa que imprima tu nombre y tu ciudad en lineas separadas. ")
 print("Mi nombre es: Luis Bernardo \nMi ciudad es: FCP")
 
-###
+##
 
 print("\nEjercicio 2: Muestra los tipos de datos de las siguientes variables")
 print("Usa el comando type() para determinar el tipo de dato de cada variable")
@@ -44,7 +44,7 @@ edad = 21
 altura = 1.60
 print(f"Hola me llamo {nombre} y tengo {edad} años, mido {altura} metros.")
 
-###
+# ###
 
 print("\nEjercicios 5: Números")
 print("1. Crea una variable con el numero PI (Sin asignar una variable)")
