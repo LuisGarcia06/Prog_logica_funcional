@@ -60,10 +60,10 @@
 # Antes de codificar respone o describe:
 #      - ¿Qué funciones necesitas definir?
 #           Necesito definir tres funciones 
-#      - ¿Cuál de ellas es de orden superior? El de precio unitario ¿Por qué? porque le pasaras otras funciones
-#      - ¿Dónde usarás comprensión de listas? con el map basta
+#      - ¿Cuál de ellas es de orden superior? El de tomar orden ¿Por qué? Ya que recibe otra funcion como argumento
+#      - ¿Dónde usarás comprensión de listas? Se usar para generar la lista de porciones
 #      - ¿Dónde usarás lambda + map()?
-#           Para calcular el precio total
+#           Se usara para calcular el precio de cada porcion. 
 # ─────────────────────────────────────────────────────────────────────────────
 
 
